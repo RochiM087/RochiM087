@@ -22,6 +22,8 @@ Atualmente, desenvolvo projetos no CBPF e na NTL, envolvendo desde microserviço
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **Frontend:**  
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) 
