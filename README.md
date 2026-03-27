@@ -2,14 +2,14 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b> com foco em Python, Backend, IoT e Sistemas Distribuídos ☁️🐍⚙️<br>
-  📍 Porto Alegre | 🇧🇷 Brasil
+  📍 Rio de Janeiro | 🇧🇷 Brasil
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e ciência aplicada. Atuo como Desenvolvedor Full Stack, com forte ênfase em **Python**, **sistemas web**, **IoT**, e soluções em **Linux distribuído**. Tenho experiência com **aplicações backend escaláveis**, **interfaces modernas**, **automação com CI/CD**, e **integração com hardware e sensores**.
+Sou apaixonado por tecnologia e ciência aplicada. Atuo como Desenvolvedor Full Stack, com forte ênfase em **Python**, **Machine Learning**, **sistemas web**, **IoT**, e soluções em **Linux distribuído**. Tenho experiência com **aplicações backend escaláveis**, **interfaces modernas**, **automação com CI/CD**, e **integração com hardware e sensores**.
 
 Atualmente, desenvolvo projetos no CBPF e na NTL, envolvendo desde microserviços com Docker e RabbitMQ até sistemas web com FastAPI, Flask, Django e Angular.
 
