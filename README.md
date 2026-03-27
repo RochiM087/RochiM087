@@ -51,7 +51,7 @@ Atualmente, desenvolvo projetos no CBPF e na NTL, envolvendo desde microserviço
 ### 📚 Formação
 
 🎓 Mestrado em Computação Aplicada — CBPF (2024-2025)  
-🎓 Ciência da Computação — Univ. Cruzeiro do Sul  
+🎓 Engenharia de Software — Univ. Estácio de Sá  
 🎓 Licenciatura em Física — IFRJ  
 🎓 Técnico em Eletrônica — IFRJ  
 
@@ -59,7 +59,7 @@ Atualmente, desenvolvo projetos no CBPF e na NTL, envolvendo desde microserviço
 
 ### 📫 Como me encontrar
 
-- 📧 Email: bhrpjs87@gmail.com  
+- 📧 Email: rodriguesbhr@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/bruno-rodrigues-858018209](https://linkedin.com/in/bruno-rodrigues-858018209)  
 - 🌐 GitHub: [github.com/RochiM087](https://github.com/RochiM087)
 
